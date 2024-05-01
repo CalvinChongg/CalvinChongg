@@ -3,8 +3,7 @@
 
 <h2>Current Learning</h2>
 <h3>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  Python with Flask
+  C# and Python with Flask
 </h3>
 
 # Stats
