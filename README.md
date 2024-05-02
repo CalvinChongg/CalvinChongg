@@ -7,9 +7,9 @@
 </h3>
 
 # Stats
-<img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=iKonicStixx&show_icons=true&theme=dark"/>
+<img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=CalvinChongg&show_icons=true&theme=dark"/>
 
-<img alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iKonicStixx&theme=dark"/>
+<img alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CalvinChongg&theme=dark"/>
 
 # Tech Stack
 <!-- C -->
