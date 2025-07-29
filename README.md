@@ -3,7 +3,7 @@
 
 <h2>Current Learning</h2>
 <h3>
-  C# and Python with Flask
+  C++ and JavaScript
 </h3>
 
 # Stats
